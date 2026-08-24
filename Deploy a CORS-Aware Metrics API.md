@@ -1,6 +1,4 @@
 # TDS 2026 May — GA2 Q1: Deploy a CORS-Aware Metrics API
-### Learning Guide (1.5 marks)
-
 ---
 
 ## 1. What This Question Is Really Testing
